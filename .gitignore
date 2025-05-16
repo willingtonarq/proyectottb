@@ -1,0 +1,32 @@
+# Ignorar configuraciones de VSCode
+.vscode/
+
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales comunes
+env/
+venv/
+.venv/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Node.js / React
+node_modules/
+build/
+dist/
+*.env
+
+# Archivos de salida
+*.gif
+*.png
+*.jpg
+*.mp4
